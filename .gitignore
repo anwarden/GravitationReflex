@@ -1,0 +1,22 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+*.user
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled executables
+Gravitation1
+Gravitation2
+Duel
+*.exe
+
+# Object files
+*.o
+*.obj
